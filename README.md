@@ -16,6 +16,7 @@ A list of open source Ember apps
 * [Documize Community Edition](https://github.com/documize/community/tree/master/app)
 * [ShareDrop](https://github.com/cowbell/sharedrop)
 * [Ember Weekend](https://github.com/ember-weekend/ember-weekend)
+* [Ember Addons](https://github.com/gcollazo/ember-cli-addon-search)
 
 ## Ember `2.11.x`
 * [SplittyPie](https://github.com/cowbell/splittypie)
@@ -38,7 +39,6 @@ A list of open source Ember apps
 * [Ember Grep web client](https://github.com/EmberGrep/eg-site)
 
 ## Ember `2.0.x`
-* [Ember Addons](https://github.com/gcollazo/ember-cli-addon-search)
 * [Uhuraapp](https://github.com/uhuraapp/uhura-frontend)
 
 ## Ember `1.13.x`
