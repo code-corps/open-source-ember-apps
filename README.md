@@ -44,7 +44,6 @@ A list of open source Ember apps
 ## Ember `1.13.x`
 * [Transitland Feed Registry](https://github.com/transitland/feed-registry)
 * [Hoodie Admin Dashboard](https://github.com/hoodiehq/hoodie-admin-dashboard)
-* [Wikitongues Poly](https://github.com/wikitongues/poly)
 * [Aptible Dashboard](https://github.com/aptible/dashboard.aptible.com)
 * [Wordset UI](https://github.com/wordset/wordset-ui)
 * [Davros](https://github.com/mnutt/davros)
