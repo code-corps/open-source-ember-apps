@@ -6,6 +6,7 @@ A list of open source Ember apps
 * [Ilios Frontend](https://github.com/ilios/frontend)
 * [Travis CI web client](https://github.com/travis-ci/travis-web)
 * [Percy web client](https://github.com/percy/percy-web)
+* [Library App](https://github.com/zoltan-nz/library-app)
 
 ## Ember `2.12.x`
 * [Appknox](https://github.com/appknox/irene)
@@ -18,7 +19,6 @@ A list of open source Ember apps
 * [Flaredown](https://github.com/Flaredown/FlaredownEmber-2)
 
 ## Ember `2.7.x`
-* [Library App](https://github.com/zoltan-nz/library-app)
 * [OSF Preprints](https://github.com/CenterForOpenScience/ember-preprints)
 * [HospitalRun](https://github.com/HospitalRun/hospitalrun-frontend)
 
