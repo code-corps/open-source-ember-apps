@@ -9,6 +9,7 @@ A list of open source Ember apps
 
 ## Ember `2.12.x`
 * [Appknox](https://github.com/appknox/irene)
+* [crates.io](https://github.com/rust-lang/crates.io)
 
 ## Ember `2.11.x`
 * [SplittyPie](https://github.com/cowbell/splittypie)
@@ -17,7 +18,6 @@ A list of open source Ember apps
 * [Flaredown](https://github.com/Flaredown/FlaredownEmber-2)
 
 ## Ember `2.7.x`
-* [crates.io](https://github.com/rust-lang/crates.io)
 * [Library App](https://github.com/zoltan-nz/library-app)
 * [OSF Preprints](https://github.com/CenterForOpenScience/ember-preprints)
 * [HospitalRun](https://github.com/HospitalRun/hospitalrun-frontend)
