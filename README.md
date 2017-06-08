@@ -31,9 +31,9 @@ A list of open source Ember apps
 ## Ember `2.5.x`
 * [gishtech.com](https://github.com/kgish/gishtech.com)
 * [docbc Desktop](https://github.com/dotbc/dotbc-bundler)
+* [Ember Grep web client](https://github.com/EmberGrep/eg-site)
 
 ## Ember `2.4.x`
-* [Ember Grep web client](https://github.com/EmberGrep/eg-site)
 * [Ember Observer](https://github.com/emberobserver/client)
 
 ## Ember `2.3.x`
