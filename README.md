@@ -5,7 +5,7 @@ A list of open source Ember apps
 * [Code Corps](https://github.com/code-corps/code-corps-ember)
 * [Ilios Frontend](https://github.com/ilios/frontend)
 
-## Ember `2.11.x`
+## Ember `2.12.x`
 * [Appknox](https://github.com/appknox/irene)
 
 ## Ember `2.10.x`
