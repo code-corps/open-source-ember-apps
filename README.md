@@ -7,6 +7,7 @@ A list of open source Ember apps
 * [Travis CI web client](https://github.com/travis-ci/travis-web)
 * [Percy web client](https://github.com/percy/percy-web)
 * [Library App](https://github.com/zoltan-nz/library-app)
+* [Ghost](https://github.com/TryGhost/Ghost-Admin)
 
 ## Ember `2.12.x`
 * [Appknox](https://github.com/appknox/irene)
@@ -23,7 +24,6 @@ A list of open source Ember apps
 * [Flaredown](https://github.com/Flaredown/FlaredownEmber-2)
 
 ## Ember `2.6.x`
-* [Ghost](https://github.com/TryGhost/Ghost-Admin)
 * [Rancher UI](https://github.com/rancher/ui)
 
 ## Ember `2.5.x`
