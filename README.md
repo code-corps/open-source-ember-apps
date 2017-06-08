@@ -36,6 +36,9 @@ A list of open source Ember apps
 ## Ember `2.7.x`
 * [Global Ember Meetup](https://github.com/EmberMeetup/website)
 
+## Ember `2.6.x`
+* [Ember Inspector](https://github.com/emberjs/ember-inspector)
+
 ## Ember `2.5.x`
 * [gishtech.com](https://github.com/kgish/gishtech.com)
 * [docbc Desktop](https://github.com/dotbc/dotbc-bundler)
@@ -52,9 +55,6 @@ A list of open source Ember apps
 * [Hoodie Admin Dashboard](https://github.com/hoodiehq/hoodie-admin-dashboard)
 * [Aptible Dashboard](https://github.com/aptible/dashboard.aptible.com)
 * [Wordset UI](https://github.com/wordset/wordset-ui)
-
-## Ember `1.12.x`
-* [Ember Inspector](https://github.com/emberjs/ember-inspector)
 
 ## Ember `1.10.x`
 * [HN Reader](https://github.com/chancancode/hn-reader)
