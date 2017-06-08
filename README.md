@@ -15,6 +15,7 @@ A list of open source Ember apps
 * [Rancher UI](https://github.com/rancher/ui)
 * [Documize Community Edition](https://github.com/documize/community/tree/master/app)
 * [ShareDrop](https://github.com/cowbell/sharedrop)
+* [Ember Weekend](https://github.com/ember-weekend/ember-weekend)
 
 ## Ember `2.11.x`
 * [SplittyPie](https://github.com/cowbell/splittypie)
@@ -35,9 +36,6 @@ A list of open source Ember apps
 * [gishtech.com](https://github.com/kgish/gishtech.com)
 * [docbc Desktop](https://github.com/dotbc/dotbc-bundler)
 * [Ember Grep web client](https://github.com/EmberGrep/eg-site)
-
-## Ember `2.1.x`
-* [Ember Weekend](https://github.com/ember-weekend/ember-weekend)
 
 ## Ember `2.0.x`
 * [Ember Addons](https://github.com/gcollazo/ember-cli-addon-search)
