@@ -24,9 +24,11 @@ A list of open source Ember apps
 ## Ember `2.8.x`
 * [Flaredown](https://github.com/Flaredown/FlaredownEmber-2)
 
+## Ember `2.7.x`
+* [Global Ember Meetup](https://github.com/EmberMeetup/website)
+
 ## Ember `2.5.x`
 * [gishtech.com](https://github.com/kgish/gishtech.com)
-* [Global Ember Meetup](https://github.com/EmberMeetup/website)
 * [Documize Community Edition](https://github.com/documize/community/tree/master/app)
 * [docbc Desktop](https://github.com/dotbc/dotbc-bundler)
 
