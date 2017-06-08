@@ -14,6 +14,7 @@ A list of open source Ember apps
 * [crates.io](https://github.com/rust-lang/crates.io)
 * [Rancher UI](https://github.com/rancher/ui)
 * [Documize Community Edition](https://github.com/documize/community/tree/master/app)
+* [ShareDrop](https://github.com/cowbell/sharedrop)
 
 ## Ember `2.11.x`
 * [SplittyPie](https://github.com/cowbell/splittypie)
@@ -33,9 +34,6 @@ A list of open source Ember apps
 * [gishtech.com](https://github.com/kgish/gishtech.com)
 * [docbc Desktop](https://github.com/dotbc/dotbc-bundler)
 * [Ember Grep web client](https://github.com/EmberGrep/eg-site)
-
-## Ember `2.3.x`
-* [ShareDrop](https://github.com/cowbell/sharedrop)
 
 ## Ember `2.2.x`
 * [Ember Twiddle](https://github.com/ember-cli/ember-twiddle)
