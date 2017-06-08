@@ -8,6 +8,7 @@ A list of open source Ember apps
 * [Percy web client](https://github.com/percy/percy-web)
 * [Library App](https://github.com/zoltan-nz/library-app)
 * [Ghost](https://github.com/TryGhost/Ghost-Admin)
+* [Hummingbird](https://github.com/hummingbird-me/hummingbird-client)
 
 ## Ember `2.12.x`
 * [Appknox](https://github.com/appknox/irene)
@@ -53,7 +54,6 @@ A list of open source Ember apps
 * [Wordset UI](https://github.com/wordset/wordset-ui)
 
 ## Ember `1.12.x`
-* [Hummingbird](https://github.com/hummingbird-me/hummingbird)
 * [Ember Inspector](https://github.com/emberjs/ember-inspector)
 
 ## Ember `1.10.x`
