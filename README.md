@@ -39,6 +39,9 @@ A list of open source Ember apps
 * [docbc Desktop](https://github.com/dotbc/dotbc-bundler)
 * [Ember Grep web client](https://github.com/EmberGrep/eg-site)
 
+## Ember `2.3.x`
+* [Participate](https://github.com/oliverbarnes/old-participate-client)
+
 ## Ember `2.0.x`
 * [Uhuraapp](https://github.com/uhuraapp/uhura-frontend)
 
@@ -47,7 +50,6 @@ A list of open source Ember apps
 * [Hoodie Admin Dashboard](https://github.com/hoodiehq/hoodie-admin-dashboard)
 * [Aptible Dashboard](https://github.com/aptible/dashboard.aptible.com)
 * [Wordset UI](https://github.com/wordset/wordset-ui)
-* [Participate](https://github.com/oliverbarnes/participate)
 
 ## Ember `1.12.x`
 * [Discourse](https://github.com/discourse/discourse)
