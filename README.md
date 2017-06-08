@@ -12,6 +12,7 @@ A list of open source Ember apps
 ## Ember `2.12.x`
 * [Appknox](https://github.com/appknox/irene)
 * [crates.io](https://github.com/rust-lang/crates.io)
+* [Rancher UI](https://github.com/rancher/ui)
 
 ## Ember `2.11.x`
 * [SplittyPie](https://github.com/cowbell/splittypie)
@@ -22,9 +23,6 @@ A list of open source Ember apps
 
 ## Ember `2.8.x`
 * [Flaredown](https://github.com/Flaredown/FlaredownEmber-2)
-
-## Ember `2.6.x`
-* [Rancher UI](https://github.com/rancher/ui)
 
 ## Ember `2.5.x`
 * [gishtech.com](https://github.com/kgish/gishtech.com)
