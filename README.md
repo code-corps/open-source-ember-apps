@@ -13,6 +13,7 @@ A list of open source Ember apps
 * [Appknox](https://github.com/appknox/irene)
 * [crates.io](https://github.com/rust-lang/crates.io)
 * [Rancher UI](https://github.com/rancher/ui)
+* [Documize Community Edition](https://github.com/documize/community/tree/master/app)
 
 ## Ember `2.11.x`
 * [SplittyPie](https://github.com/cowbell/splittypie)
@@ -29,7 +30,6 @@ A list of open source Ember apps
 
 ## Ember `2.5.x`
 * [gishtech.com](https://github.com/kgish/gishtech.com)
-* [Documize Community Edition](https://github.com/documize/community/tree/master/app)
 * [docbc Desktop](https://github.com/dotbc/dotbc-bundler)
 
 ## Ember `2.4.x`
