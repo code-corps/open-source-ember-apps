@@ -15,11 +15,13 @@ A list of open source Ember apps
 ## Ember `2.11.x`
 * [SplittyPie](https://github.com/cowbell/splittypie)
 
+## Ember `2.10.x`
+* [OSF Preprints](https://github.com/CenterForOpenScience/ember-preprints)
+
 ## Ember `2.8.x`
 * [Flaredown](https://github.com/Flaredown/FlaredownEmber-2)
 
 ## Ember `2.7.x`
-* [OSF Preprints](https://github.com/CenterForOpenScience/ember-preprints)
 * [HospitalRun](https://github.com/HospitalRun/hospitalrun-frontend)
 
 ## Ember `2.6.x`
