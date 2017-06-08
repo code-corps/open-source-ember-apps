@@ -47,6 +47,9 @@ A list of open source Ember apps
 ## Ember `2.3.x`
 * [Participate](https://github.com/oliverbarnes/old-participate-client)
 
+## Ember `2.2.x`
+* [Huboard](https://github.com/huboard/huboard-web)
+
 ## Ember `2.0.x`
 * [Uhuraapp](https://github.com/uhuraapp/uhura-frontend)
 
@@ -70,9 +73,6 @@ A list of open source Ember apps
 
 ## Ember `1.2.x`
 * [Basho/Giddyup](https://github.com/basho/giddyup/tree/refactor/sdc-ember-upgrade)
-
-## Ember `1.00`
-* [Huboard](https://github.com/huboard/huboard-web)
 
 ## Ember `1.RC6`
 * [EmberPress](https://github.com/eviltrout/emberpress)
