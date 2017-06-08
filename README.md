@@ -27,6 +27,7 @@ A list of open source Ember apps
 ## Ember `2.10.x`
 * [OSF Preprints](https://github.com/CenterForOpenScience/ember-preprints)
 * [HospitalRun](https://github.com/HospitalRun/hospitalrun-frontend)
+* [Discourse](https://github.com/discourse/discourse)
 
 ## Ember `2.8.x`
 * [Flaredown](https://github.com/Flaredown/FlaredownEmber-2)
@@ -52,7 +53,6 @@ A list of open source Ember apps
 * [Wordset UI](https://github.com/wordset/wordset-ui)
 
 ## Ember `1.12.x`
-* [Discourse](https://github.com/discourse/discourse)
 * [Hummingbird](https://github.com/hummingbird-me/hummingbird)
 * [Ember Inspector](https://github.com/emberjs/ember-inspector)
 
