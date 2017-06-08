@@ -19,6 +19,7 @@ A list of open source Ember apps
 ## Ember `2.11.x`
 * [SplittyPie](https://github.com/cowbell/splittypie)
 * [Ember Observer](https://github.com/emberobserver/client)
+* [Ember Twiddle](https://github.com/ember-cli/ember-twiddle)
 
 ## Ember `2.10.x`
 * [OSF Preprints](https://github.com/CenterForOpenScience/ember-preprints)
@@ -34,9 +35,6 @@ A list of open source Ember apps
 * [gishtech.com](https://github.com/kgish/gishtech.com)
 * [docbc Desktop](https://github.com/dotbc/dotbc-bundler)
 * [Ember Grep web client](https://github.com/EmberGrep/eg-site)
-
-## Ember `2.2.x`
-* [Ember Twiddle](https://github.com/ember-cli/ember-twiddle)
 
 ## Ember `2.1.x`
 * [Ember Weekend](https://github.com/ember-weekend/ember-weekend)
