@@ -17,6 +17,7 @@ A list of open source Ember apps
 * [ShareDrop](https://github.com/cowbell/sharedrop)
 * [Ember Weekend](https://github.com/ember-weekend/ember-weekend)
 * [Ember Addons](https://github.com/gcollazo/ember-cli-addon-search)
+* [Davros](https://github.com/mnutt/davros)
 
 ## Ember `2.11.x`
 * [SplittyPie](https://github.com/cowbell/splittypie)
@@ -46,7 +47,6 @@ A list of open source Ember apps
 * [Hoodie Admin Dashboard](https://github.com/hoodiehq/hoodie-admin-dashboard)
 * [Aptible Dashboard](https://github.com/aptible/dashboard.aptible.com)
 * [Wordset UI](https://github.com/wordset/wordset-ui)
-* [Davros](https://github.com/mnutt/davros)
 * [Participate](https://github.com/oliverbarnes/participate)
 
 ## Ember `1.12.x`
